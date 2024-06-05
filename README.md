@@ -1,5 +1,2 @@
-# ada_tech
-Estudo do ada_tech
-teste\
-
-teste modificação
+# Curso Digital: git
+## Salvando alterações no git
